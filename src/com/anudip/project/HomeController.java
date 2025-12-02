@@ -1,6 +1,6 @@
 package com.anudip.project;
 
-public class TestController {
+public class HomeController {
 
 	public static void main(String[] args) {
 
